@@ -1,0 +1,2 @@
+myapplicationName=SpringBootDemo
+application.version=1111///////
